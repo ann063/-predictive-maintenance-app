@@ -6,3 +6,4 @@ xgboost
 scikit-learn==1.0.2
 xgboost==3.0.0
 joblib==1.4.2
+setuptools==65.5.0
